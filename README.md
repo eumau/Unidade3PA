@@ -24,3 +24,9 @@
 
 ## Tamanho do grid :
 ![grid](https://github.com/eumau/Unidade3PA/blob/main/tamanho%20do%20grid.PNG)
+
+## Navegar entre dimensões :
+![dimensoes](https://github.com/eumau/Unidade3PA/blob/main/navegar%20entre%20dimensoes.PNG)
+
+## Salvar e criar arquivo :
+![dimensoes](https://github.com/eumau/Unidade3PA/blob/main/salvar%20e%20criar%20arquivo%20desenhado.png)
